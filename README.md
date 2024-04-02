@@ -1,16 +1,19 @@
-### Hi there 👋
+## Hey 👋 I'm Raman Shaliamekh
 
-<!--
-**shaliamekh/shaliamekh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an software engineer from Belarus currently located in Poland. 📍 
 
-Here are some ideas to get you started:
+I hold a degree in Computer Science and AWS Solution Architect Associate [certification](https://www.credly.com/badges/0b859d01-1e22-455c-bcc0-053f41488f99/public_url). 🎓 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My primary focus lies in building, deploying and maintaining secure, highly scalable and fault-tolerant applications, with a specialization in backend API development. I have strong DevOps background. 🚀 
+
+I like working with Python, SQL and NoSQL databases, Docker, Kubernetes, Terraform, CI/CD pipelines, and GitOps tools. 🛠️ 
+
+Beyond my core expertise, I like experimenting with such technologies as Go, TypeScript, and modern frontend frameworks. 💡
+
+Having worked within different international teams I've contributed to the development of various products in such domains as Finance, Transportation, and Marketing. 🌍 
+
+Currently, I serve as a Full-stack Engineer at [Innowise Group](https://innowise.com/). 💻 
+
+Connect with me via:
+* email: [shaliamekh@gmail.com](mailto:shaliamekh@gmail.com)
+* [Medium](https://medium.com/@shaliamekh)
