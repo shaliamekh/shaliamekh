@@ -1,6 +1,6 @@
 ## Hey 👋 I'm Raman Shaliamekh
 
-I am an software engineer from Belarus currently located in Poland. 📍 
+I am a software engineer from Belarus currently located in Poland. 📍 
 
 I hold a degree in Computer Science and AWS Solution Architect Associate [certification](https://www.credly.com/badges/0b859d01-1e22-455c-bcc0-053f41488f99/public_url). 🎓 
 
@@ -12,8 +12,9 @@ Beyond my core expertise, I like experimenting with such technologies as Go, Typ
 
 Having worked within different international teams I've contributed to the development of various products in such domains as Finance, Transportation, and Marketing. 🌍 
 
-Currently, I serve as a Full-stack Engineer at [Innowise Group](https://innowise.com/). 💻 
+Currently, I serve as a Full-stack Engineer at [Innowise Group](https://innowise.com/) / contractor at [Digeiz](https://digeiz.com/). 💻 
 
 Connect with me via:
 * email: [shaliamekh@gmail.com](mailto:shaliamekh@gmail.com)
 * [Medium](https://medium.com/@shaliamekh)
+* [LinkedIn](https://www.linkedin.com/in/shaliamekh/)
